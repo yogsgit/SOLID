@@ -1,0 +1,5 @@
+D:\Projects\Yogesh\Blog\SOLID\SOLID\SOLID\bin\Debug\SOLID.exe.config
+D:\Projects\Yogesh\Blog\SOLID\SOLID\SOLID\bin\Debug\SOLID.exe
+D:\Projects\Yogesh\Blog\SOLID\SOLID\SOLID\bin\Debug\SOLID.pdb
+D:\Projects\Yogesh\Blog\SOLID\SOLID\SOLID\obj\Debug\SOLID.exe
+D:\Projects\Yogesh\Blog\SOLID\SOLID\SOLID\obj\Debug\SOLID.pdb
